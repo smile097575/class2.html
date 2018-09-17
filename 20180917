@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CLASS</title>
+    <style>
+        body{
+            background-image:url("333.jpg") ;
+        }
+        #center {
+            font-size: 1.2em;
+            color: #983ced;
+        }
+        .button{
+            border: 1px solid black;
+            padding: 5px;
+            width: 50px;
+            background-color: lightskyblue;
+
+        }
+    </style>
+</head>
+<body>
+
+<h1 align="right">Jenny</h1>
+
+<ul>
+    <li>106課表</li>
+    <ol>
+        <li>資訊數學</li>
+        <li>程式設計</li>
+        <li>機率統計</li>
+        <li>文學賞析</li>
+        <li>英文</li>
+    </ol>
+</ul>
+<table width="400" bgcolor="#add8e6" align="center">
+    <tr align="center">
+        <td><a href="http://www.asia.edu.tw/" target="_blank">ASIA</a></td>
+        <td><a href="https://www.hinet.net/" target="_blank">HINET</a></td>
+        <td><a href="http://csie.asia.edu.tw/" target="_blank">CSIE</a></td>
+    </tr>
+</table>
+        <p id="center" align="center">三人成虎</p>
+        <p class = "button" align="center">Jenny</p>
+        <p class = "button" align="center">Class</p>
+</body>
+</html>
